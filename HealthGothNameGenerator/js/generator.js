@@ -9,7 +9,7 @@
       var wordlist1 = ["Sad","Adi","Cyber","Magic","Micro","Aero","Future","HyperSport",
               "White","Bio","Godidas","Hydrator","Purple","Golden","Silver"];
       
-      var wordlist2 = ["Hamster","Moose","Lama","Duck","Bear","Eagle","Tiger",
+      var wordlist2 = ["Knife","Prosthesia","Lama","Duck","Bear","Eagle","Tiger",
               "Rocket","Bullet","Knee","Foot","Hand"]
       
       // Random numbers are made 
