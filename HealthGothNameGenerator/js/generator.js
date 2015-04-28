@@ -6,8 +6,8 @@
     function generator(){
       // Add your own words to the wordlist. Be carefull to obey the showed syntax
       
-      var wordlist1 = ["Sad","Adi","Cyber","Magic","Micro","Aero","Future","Rotten",
-              "Blue","Black","White","Red","Purple","Golden","Silver"];
+      var wordlist1 = ["Sad","Adi","Cyber","Magic","Micro","Aero","Future","HyperSport",
+              "White","Bio","Godidas","Hydrator","Purple","Golden","Silver"];
       
       var wordlist2 = ["Hamster","Moose","Lama","Duck","Bear","Eagle","Tiger",
               "Rocket","Bullet","Knee","Foot","Hand"]
