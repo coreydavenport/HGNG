@@ -7,10 +7,10 @@
       // Add your own words to the wordlist. Be carefull to obey the showed syntax
       
       var wordlist1 = ["Sad","Adi","Cyber","Magic","Micro","Aero","Future","HyperSport","White","Bio","Godidas","Hydrator","Baby","Golden","Silver","Hydra", "Lyte", "Dead",
-              "Blaqk", "Under", "Speed"]
+              "Blaqk", "Under", "Speed","Jog"]
       
       var wordlist2 = ["Knife","Prosthesia","Android","Widow","Runner","Fades","LTD",
-              "Air","Bullet","Tear","Foot","Hand", "God", "Metal"]
+              "Air","Bullet","Tear","Foot","Hand", "God", "Metal", "Anaesthetics"]
       
       // Random numbers are made 
       var randomNumber1 = parseInt(Math.random() * wordlist1.length);
