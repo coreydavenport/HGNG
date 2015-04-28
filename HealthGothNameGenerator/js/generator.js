@@ -8,7 +8,7 @@
       
       var wordlist1 = ["Sad","Adi","Cyber","Magic","Micro","Aero","Future","HyperSport",
               "White","Bio","Godidas","Hydrator","Baby","Golden","Silver","Hydra" "Lyte", "Dead",
-              "Blaqk", "Under", "Speed"];
+              "Blaqk", "Under", "Speed"]
       
       var wordlist2 = ["Knife","Prosthesia","Android","Widow","Runner","Fades","LTD",
               "Air","Bullet","Tear","Foot","Hand" "God" "Metal"]
