@@ -2,7 +2,7 @@
     function generator(){
       
       
-      var wordlist1 = ["Sad","Adi","Cyber","Magic","Micro","Aero","Future","HyperSport","White","Bio","Godidas","Hydrator","Baby","Golden","Silver","Hydra", "Lyte", "Dead",
+      var wordlist1 = ["Sad","GLO","Adi","Cyber","Magic","Micro","Aero","Future","HyperSport","White","Bio","Godidas","Hydrator","Baby","Golden","Silver","Hydra", "Lyte", "Dead",
               "Blaqk","Dark","Wet","Black","Smart", "Under", "Speed","Jog","Little","Advanced","OXY","Energy", "Supra","Night","HyPerFlex","Tech","Pro","Plastic"]
       
       var wordlist2 = ["Knife","Prosthesia","Android","Widow","Runner","Fades","LTD",
