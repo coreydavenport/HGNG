@@ -7,9 +7,9 @@
       // Add your own words to the wordlist. Be carefull to obey the showed syntax
       
       var wordlist1 = ["Sad","Adi","Cyber","Magic","Micro","Aero","Future","HyperSport",
-              "White","Bio","Godidas","Hydrator","Purple","Golden","Silver"];
+              "White","Bio","Godidas","Hydrator","Baby","Golden","Silver"];
       
-      var wordlist2 = ["Knife","Prosthesia","Lama","Duck","Bear","Eagle","Tiger",
+      var wordlist2 = ["Knife","Prosthesia","Android","Widow","Runner","Eagle","Tiger",
               "Rocket","Bullet","Knee","Foot","Hand"]
       
       // Random numbers are made 
