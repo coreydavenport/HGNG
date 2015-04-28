@@ -137,7 +137,7 @@ border:1px solid #000;
 margin-left: 150px;
 
 }
-#stripe1{
+.stripe1{
 	display: inline-block;
 	width: 50px;
 	height: 100%;
@@ -148,7 +148,7 @@ margin-left: 150px;
 	overflow: visible;
 }
 
-#stripe2{
+.stripe2{
 	display: inline-block;
 	width: 50px;
 	height: 100%;
@@ -159,7 +159,7 @@ margin-left: 150px;
 	margin-top: 0px;
 	overflow: visible;
 }
-#stripe3{
+.stripe3{
 	display: inline-block;
 	width: 50px;
 	height: 100%;
@@ -171,11 +171,18 @@ margin-left: 150px;
 	overflow: visible;
 }
 
-.adidasStripes{
+#adidasStripes{
 	float: right;
 	width: 225px;
 	margin-top: 0px;
 	margin-left: 0px;
+	height: 100%;
+}
+#adidasStripesL{
+	float: left;
+	width: 225px;
+	margin-top: 0px;
+	margin-right: 0px;
 	height: 100%;
 }
 audio{
