@@ -9,8 +9,8 @@
       var wordlist1 = ["Sad","Adi","Cyber","Magic","Micro","Aero","Future","HyperSport",
               "White","Bio","Godidas","Hydrator","Baby","Golden","Silver"];
       
-      var wordlist2 = ["Knife","Prosthesia","Android","Widow","Runner","Eagle","Tiger",
-              "Rocket","Bullet","Knee","Foot","Hand"]
+      var wordlist2 = ["Knife","Prosthesia","Android","Widow","Runner","Fades","LTD",
+              "Air","Bullet","Tear","Foot","Hand"]
       
       // Random numbers are made 
       var randomNumber1 = parseInt(Math.random() * wordlist1.length);
