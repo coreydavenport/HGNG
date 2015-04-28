@@ -10,7 +10,7 @@
               "Blaqk", "Under", "Speed","Jog","Little","Advanced","OXY","Energy", "Supra","Night","HyPerFlex","Tech","Pro"]
       
       var wordlist2 = ["Knife","Prosthesia","Android","Widow","Runner","Fades","LTD",
-              "Air","Bullet","Tear","Foot","Hand","Psych","Face", "God", "Metal","tech","no.", "Anaesthetics","Nothing","Walker","Lite"]
+              "Air","Bullet","Tear","Foot","Hand","Psych","Face","Deth", "God", "Metal","tech","no.","Flex", "Anaesthetics","Nothing","Walker","Lite"]
       
       // Random numbers are made 
       var randomNumber1 = parseInt(Math.random() * wordlist1.length);
