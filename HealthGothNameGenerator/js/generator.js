@@ -3,10 +3,10 @@
       
       
       var wordlist1 = ["Sad","GLO","Adi","Cyber","Magic","Micro","Aero","Future","HyperSport","White","Bio","Godidas","Hydrator","Baby","Golden","Silver","Hydra", "Lyte", "Dead",
-              "Blaqk","Dark","Wet","Black","Smart", "Under", "Speed","Jog","Little","Advanced","OXY","Energy", "Supra","Night","HyPerFlex","Tech","Pro","Plastic"]
+              "Blaqk","Dark","Wet","Chrome","Blade","Black","Smart", "Under", "Speed","Jog","Little","Advanced","OXY","Energy", "Supra","Night","HyPerFlex","Tech","Pro","Plastic"]
       
       var wordlist2 = ["Knife","Prosthesia","Android","Widow","Runner","Fades","LTD",
-              "Air","Bullet","Tear","Foot","Hand","Psych","Face","Deth", "God","Fiji","VOSS", "Metal","tech","no.","Flex", "Anaesthetics","Nothing","Walker","Lite"]
+              "Air","Bullet","Tear","Foot","Hand","Psych","Team","Face","Deth", "God","Fiji","VOSS", "Metal","tech","no.","Flex", "Anaesthetics","Nothing","Walker","Lite"]
       
       // Random numbers are made 
       var randomNumber1 = parseInt(Math.random() * wordlist1.length);
